@@ -13,3 +13,4 @@ class Location:
             'timestamp': self.timestamp
         }
 Update 2 on 2014-01-08 18:07:05
+Update 3 on 2014-01-08 16:29:59
