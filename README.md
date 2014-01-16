@@ -6,3 +6,4 @@ Real-time location feed application.
 Open index.html in a browser.
 // Updated on 2014-01-10
 // Updated on 2014-01-10
+// Updated on 2014-01-16
