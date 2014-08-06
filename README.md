@@ -1,109 +1,57 @@
 # Location Feed
 
 Location tracking service with real-time feed generation and geolocation features.
-Update 0 on 2014-01-08 06:48:51
-Update 4 on 2014-01-08 19:13:35
-Update 21 on 2014-01-15 01:18:10
-Update 26 on 2014-01-15 02:53:43
-Update 36 on 2014-01-17 15:49:40
-Update 38 on 2014-01-17 17:11:23
-Update 49 on 2014-01-18 01:27:07
-Update 52 on 2014-01-18 21:56:42
-Update 61 on 2014-01-20 13:51:18
-Update 64 on 2014-01-24 06:51:12
-Update 67 on 2014-01-24 02:55:54
-Update 68 on 2014-01-24 17:35:27
-Update 74 on 2014-01-26 14:26:25
-Update 82 on 2014-01-27 22:41:59
-Update 90 on 2014-02-03 19:56:41
-Update 91 on 2014-02-03 00:10:23
-Update 98 on 2014-02-03 05:51:45
-Update 100 on 2014-02-03 08:44:56
-Update 104 on 2014-02-05 04:22:14
-Update 105 on 2014-02-05 21:59:20
-Update 106 on 2014-02-05 17:05:36
-Update 112 on 2014-02-05 11:38:17
-Update 115 on 2014-02-06 19:18:19
-Update 118 on 2014-02-06 17:49:45
-Update 120 on 2014-02-06 17:17:36
-Update 121 on 2014-02-06 19:50:59
-Update 131 on 2014-02-07 21:27:43
-Update 132 on 2014-02-11 06:28:27
-Update 134 on 2014-02-11 21:44:28
-Update 135 on 2014-02-11 07:43:13
-Update 136 on 2014-02-11 16:13:52
-Update 139 on 2014-02-17 08:58:58
-Update 153 on 2014-02-24 13:49:46
-Update 164 on 2014-02-25 03:07:35
-Update 168 on 2014-02-26 13:42:56
-Update 174 on 2014-03-01 23:48:50
-Update 185 on 2014-03-04 23:03:16
-Update 191 on 2014-03-05 02:52:48
-Update 193 on 2014-03-06 15:45:58
-Update 202 on 2014-03-06 04:28:44
-Update 204 on 2014-03-06 07:57:54
-Update 206 on 2014-03-06 01:04:56
-Update 214 on 2014-03-11 14:54:54
-Update 220 on 2014-03-13 06:01:09
-Update 227 on 2014-03-13 13:00:49
-Update 229 on 2014-03-17 06:59:15
-Update 240 on 2014-03-20 10:16:54
-Update 243 on 2014-03-20 09:51:06
-Update 244 on 2014-03-21 05:48:15
-Update 245 on 2014-03-21 15:30:09
-Update 246 on 2014-03-21 05:31:21
-Update 250 on 2014-03-24 18:54:49
-Update 257 on 2014-03-25 14:50:57
-Update 259 on 2014-03-25 10:03:54
-Update 260 on 2014-03-25 15:35:22
-Update 264 on 2014-03-26 22:49:48
-Update 265 on 2014-03-26 04:41:27
-Update 270 on 2014-03-26 17:28:41
-Update 279 on 2014-04-04 12:20:27
-Update 282 on 2014-04-07 19:25:44
-Update 283 on 2014-04-07 20:36:57
-Update 284 on 2014-04-07 06:53:11
-Update 285 on 2014-04-10 14:29:48
-Update 306 on 2014-04-17 07:47:39
-Update 309 on 2014-04-18 02:18:47
-Update 313 on 2014-04-18 09:10:30
-Update 315 on 2014-04-18 23:57:17
-Update 319 on 2014-04-21 18:49:45
-Update 320 on 2014-04-23 05:06:21
-Update 330 on 2014-04-25 15:36:02
-Update 344 on 2014-05-09 03:23:35
-Update 346 on 2014-05-09 01:12:56
-Update 349 on 2014-05-09 19:06:17
-Update 357 on 2014-05-12 23:25:54
-Update 360 on 2014-05-12 22:02:09
-Update 365 on 2014-05-18 03:20:08
-Update 367 on 2014-05-20 13:14:09
-Update 371 on 2014-05-20 18:27:57
-Update 381 on 2014-05-21 05:10:26
-Update 391 on 2014-05-27 12:20:07
-Update 393 on 2014-05-27 23:03:16
-Update 400 on 2014-05-28 03:53:38
-Update 416 on 2014-05-30 18:57:39
-Update 417 on 2014-05-30 06:09:49
-Update 434 on 2014-06-05 04:54:14
-Update 438 on 2014-06-18 05:15:11
-Update 440 on 2014-06-19 23:10:36
-Update 459 on 2014-06-25 13:43:37
-Update 476 on 2014-07-01 01:18:07
-Update 482 on 2014-07-02 08:01:54
-Update 490 on 2014-07-03 16:01:38
-Update 492 on 2014-07-03 09:55:05
-Update 498 on 2014-07-07 21:08:35
-Update 499 on 2014-07-08 12:03:17
-Update 518 on 2014-07-21 13:53:21
-Update 521 on 2014-07-21 14:08:29
-Update 539 on 2014-07-28 21:31:45
-Update 548 on 2014-07-30 05:31:31
-Update 551 on 2014-07-30 17:03:10
-Update 555 on 2014-07-30 19:06:57
-Update 557 on 2014-07-30 00:54:55
-Update 558 on 2014-07-30 07:59:16
-Update 560 on 2014-07-30 08:58:59
-Update 564 on 2014-08-04 06:54:40
-Update 566 on 2014-08-04 11:06:42
-Update 570 on 2014-08-04 08:16:58
+
+## Features
+
+- GPS location tracking
+- Location history storage
+- Feed generation with timestamps
+- Geofencing and location alerts
+- Distance and route calculation
+- Map visualization support
+- Privacy controls and data export
+
+## Structure
+
+```
+src/
+├── services/    - LocationService, tracking, and feed generation
+├── models/      - Location and Route data models
+├── utils/       - Distance calculation and geospatial utilities
+└── storage/     - Database integration for location history
+```
+
+## Installation
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Track a location:
+```python
+from src.services.locationService import LocationService
+
+service = LocationService()
+service.add_location(lat=37.7749, lng=-122.4194)
+```
+
+Generate location feed:
+```python
+feed = service.generate_feed(user_id='123', days=7)
+for location in feed:
+    print(f"{location['timestamp']}: {location['lat']}, {location['lng']}")
+```
+
+## Requirements
+
+- Python 3.6 or higher
+- geopy for geospatial calculations
+- Database (SQLite, PostgreSQL, etc.)
+
+## License
+
+MIT
